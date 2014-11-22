@@ -71,7 +71,7 @@ Course project of *General Computer Science*
     <img src='/imgs/mesh_simp.jpg' width="120" height="120" hspace="8" vspace="0" border="1" align="left" alt="icon">
 </td>
 **Mesh Simplification**    
-Course project of *Advanced Computer Graphics*    
+Course project of *Fundamentals of Computer Graphics*    
 (Implemented a mesh simplification algorithm using quadratic error metric)
 
 <br />
