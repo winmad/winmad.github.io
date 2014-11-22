@@ -6,7 +6,7 @@ title: Home &larr; Lifan Wu
 
 # Welcome
 
-<img class='inset right' src='/imgs/wlf_resized.png' title='Lifan Wu' alt='Lifan Wu' width='200px' />
+<img class='inset right' src='/imgs/wlf_resized-compressed.jpg' title='Lifan Wu' alt='Lifan Wu' width='200px' />
 
 I am Lifan Wu, a senior undergraduate student at [Yao Class](http://iiis.tsinghua.edu.cn/en) in Tsinghua University, Beijing.
 
@@ -46,7 +46,7 @@ Accepted to Computational Visual Media 2015
 (An anisotropic filtering kernel for photon density estimation to handle anisotropic BRDFs) 
 
 <td height='120' align="left" valign="middle">
-    <img src='/imgs/vol_scene.png' width="120" height="120" hspace="8" vspace="0" border="1" align="left" alt="icon">
+    <img src='/imgs/vol_scene-compressed.jpg' width="120" height="120" hspace="8" vspace="0" border="1" align="left" alt="icon">
 </td>
 **Intermediate Path Tracing and Merging**   
 Working project, with [Fujun Luan](http://cg.cs.tsinghua.edu.cn/people/~fujun/), [Weilun Sun](http://sunweilun.github.io/), and [Kun Xu](http://cg.cs.tsinghua.edu.cn/people/~kun/)   
