@@ -8,9 +8,9 @@ title: Home &larr; Lifan Wu
 
 <img class='inset right' src='/imgs/wlf_resized-compressed.jpg' title='Lifan Wu' alt='Lifan Wu' width='200px' />
 
-I am Lifan Wu, a senior undergraduate student at [Yao Class](http://iiis.tsinghua.edu.cn/en) in Tsinghua University, Beijing.
+I am Lifan Wu, a first year PhD student at University of California, San Diego. My advisor is [Prof. Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/). I graduated from Tsinghua University in July 2015.
 
-My research interest is computer graphics, including physically based rendering, light transport, and geometric modeling. I am working at [Graphics and Geometric Computing Group](http://cg.cs.tsinghua.edu.cn/), advised by [Prof. Kun Xu](http://cg.cs.tsinghua.edu.cn/people/~kun/). This summer I worked as a research intern at Washington University in St. Louis, advised by [Prof. Tao Ju](http://www.cs.wustl.edu/~taoju/).
+My research interest is computer graphics, including physically based rendering, sparse sampling and reconstruction and light transport. At Tsinghua, I worked at [Graphics and Geometric Computing Group](http://cg.cs.tsinghua.edu.cn/), advised by [Prof. Kun Xu](http://cg.cs.tsinghua.edu.cn/people/~kun/). In summer 2014, I worked as a research intern at Washington University in St. Louis, advised by [Prof. Tao Ju](http://www.cs.wustl.edu/~taoju/).
 
 Email: winmad.wlf [at] gmail [dot] com
 
@@ -20,10 +20,11 @@ Email: winmad.wlf [at] gmail [dot] com
 </div>
 
 ## News
+* 09/12/2015: I start my PhD study at University of California, San Diego. I am fortunate to work with Prof. Ravi Ramamoorthi.
 
-* 11/16/2014: Our paper "Anisotropic Density Estimation for Photon Mapping" has been accepted to [Computational Visual Media 2015](http://iccvm.org/2015/) for a poster presentation.
+* 07/12/2015: I graduated from Tsinghua University.
 
-* 09/24/2014: I visited [Prof. Hao Li](http://www.hao-li.com)'s lab at USC and gave a talk about my projects. The trip was wonderful!
+* 11/16/2014: Our paper [Anisotropic Density Estimation for Photon Mapping](http://link.springer.com/article/10.1007/s41095-015-0010-8) has been accepted to [Computational Visual Media 2015](http://iccvm.org/2015/) for a poster presentation.
 
 <div id="research">
 </div>
@@ -31,10 +32,17 @@ Email: winmad.wlf [at] gmail [dot] com
 ## Research Projects
 
 <td height='120' align="left" valign="middle">
+    <img src='/imgs/vol_scene-compressed.jpg' width="120" height="120" hspace="8" vspace="0" border="1" align="left" alt="icon">
+</td>
+**Intermediate Path Tracing and Merging**   
+Working with [Fujun Luan](http://cg.cs.tsinghua.edu.cn/people/~fujun/), [Weilun Sun](http://sunweilun.github.io/), and [Kun Xu](http://cg.cs.tsinghua.edu.cn/people/~kun/)   
+(Inspired by Vertex Connection and Merging. Using intermediate paths and a path merging graph to increase path samples and improve path reusing)
+
+<td height='120' align="left" valign="middle">
     <img src='/imgs/sur_recon.png' width="120" height="120" hspace="8" vspace="0" border="1" align="left" alt="icon">
 </td>
 **PointContour: Interactive Surface Reconstruction on Point Cloud**    
-Working project, with Zhao Fu, Yixin Zhuang, [Ming Zou](http://www.cse.wustl.edu/~zoum/), [Nathan Carr](http://www.adobe.com/technology/people/san-jose/nathan-carr.html), and [Tao Ju](http://www.cse.wustl.edu/~taoju/)    
+Working with Yixin Zhuang, [Ming Zou](http://www.cse.wustl.edu/~zoum/), Zhao Fu, [Nathan Carr](http://www.adobe.com/technology/people/san-jose/nathan-carr.html), and [Tao Ju](http://www.cse.wustl.edu/~taoju/)    
 (A semi-automatic tool to generate surfaces via input point cloud and sketches drawn by users)
 
 <td height='120' align="left" valign="middle">
@@ -44,13 +52,6 @@ Working project, with Zhao Fu, Yixin Zhuang, [Ming Zou](http://www.cse.wustl.edu
 [Fujun Luan](http://cg.cs.tsinghua.edu.cn/people/~fujun/), **Lifan Wu**, and [Kun Xu](http://cg.cs.tsinghua.edu.cn/people/~kun/)   
 Accepted to Computational Visual Media 2015   
 (An anisotropic filtering kernel for photon density estimation to handle anisotropic BRDFs) 
-
-<td height='120' align="left" valign="middle">
-    <img src='/imgs/vol_scene-compressed.jpg' width="120" height="120" hspace="8" vspace="0" border="1" align="left" alt="icon">
-</td>
-**Intermediate Path Tracing and Merging**   
-Working project, with [Fujun Luan](http://cg.cs.tsinghua.edu.cn/people/~fujun/), [Weilun Sun](http://sunweilun.github.io/), and [Kun Xu](http://cg.cs.tsinghua.edu.cn/people/~kun/)   
-(Using intermediate paths and a path merging graph to increase path samples and improve path reusing)
 
 <br />
 
