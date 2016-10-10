@@ -6,11 +6,11 @@ title: Home &larr; Lifan Wu
 
 # Welcome
 
-<img class='inset right' src='/imgs/wlf_resized-compressed.jpg' title='Lifan Wu' alt='Lifan Wu' width='200px' />
+<img class='inset right' src='/imgs/wlf_resized-compressed.jpg' title='Lifan Wu' alt='Lifan Wu' width='230px' />
 
-I am Lifan Wu, a first year PhD student at University of California, San Diego. My advisor is [Prof. Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/). I graduated from Tsinghua University in July 2015.
+I am Lifan Wu, a second year PhD student at University of California, San Diego. My advisor is [Prof. Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/). I graduated from Tsinghua University in July 2015.
 
-My research interest is computer graphics, including physically based rendering, sparse sampling and reconstruction and light transport. At Tsinghua, I worked at [Graphics and Geometric Computing Group](http://cg.cs.tsinghua.edu.cn/), advised by [Prof. Kun Xu](http://cg.cs.tsinghua.edu.cn/people/~kun/). In summer 2014, I worked as a research intern at Washington University in St. Louis, advised by [Prof. Tao Ju](http://www.cs.wustl.edu/~taoju/).
+My research interest is physically based rendering, including sparse sampling and reconstruction of visual signals, realistic appearance modeling, and light transport. At Tsinghua, I worked at [Graphics and Geometric Computing Group](http://cg.cs.tsinghua.edu.cn/), advised by [Prof. Kun Xu](http://cg.cs.tsinghua.edu.cn/people/~kun/). In summer 2014, I worked as a research intern at Washington University in St. Louis, advised by [Prof. Tao Ju](http://www.cs.wustl.edu/~taoju/).
 
 Email: winmad.wlf [at] gmail [dot] com
 
@@ -20,16 +20,22 @@ Email: winmad.wlf [at] gmail [dot] com
 </div>
 
 ## News
-* 09/12/2015: I start my PhD study at University of California, San Diego. I am fortunate to work with Prof. Ravi Ramamoorthi.
-
-* 07/12/2015: I graduated from Tsinghua University.
-
-* 11/16/2014: Our paper [Anisotropic Density Estimation for Photon Mapping](http://link.springer.com/article/10.1007/s41095-015-0010-8) has been accepted to [Computational Visual Media 2015](http://iccvm.org/2015/) for a poster presentation.
+* 07/2016: Our paper [Downsampling Scattering Parameters for Rendering Anisotropic Media](http://shuangz.com/projects/multires-sa16/) has been accepted to ACM SIGGRAPH Asia 2016.
+* 09/2015: I start my PhD study at University of California, San Diego. I am fortunate to work with Prof. Ravi Ramamoorthi.
+* 07/2015: I graduated from Tsinghua University.
 
 <div id="research">
 </div>
 
 ## Research Projects
+<td height='120' align="left" valign="middle">
+    <img src='/imgs/multires-sa16.png' width="120" height="120" hspace="8" vspace="4" border="1" align="left" alt="icon">
+</td>
+**Downsampling Scattering Parameters for Rendering Anisotropic Media**   
+[Shuang Zhao](https://shuangz.com/)\*, Lifan Wu\*, [Fredo Durand](http://people.csail.mit.edu/fredo/), and [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)   
+(\* Joint first authors)   
+ACM Transactions on Graphics (SIGGRAPH Asia 2016), Nov. 2016   
+[[Project]](http://shuangz.com/projects/multires-sa16/) [[Paper]](http://cseweb.ucsd.edu/~liw086/multires-sa16/multires-sa16.pdf) [[Video]](https://vimeo.com/182425415) [[Code & Data]](http://cseweb.ucsd.edu/~liw086/multires-sa16/multires_dataset_code.zip)
 
 <td height='120' align="left" valign="middle">
     <img src='/imgs/vol_scene-compressed.jpg' width="120" height="120" hspace="8" vspace="0" border="1" align="left" alt="icon">
