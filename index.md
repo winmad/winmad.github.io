@@ -35,7 +35,7 @@ Email: winmad.wlf [at] gmail [dot] com
 **Multiple Axis-Aligned Filters for Rendering of Combined Distribution Effects**   
 Lifan Wu, [Ling-Qi Yan](http://people.eecs.berkeley.edu/~lingqi/), Alexandr Kuznetsov, [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)   
 Computer Graphics Forum (EGSR 2017), June 2017   
-[[Paper]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/MAAF_egsr2017.pdf) [[Video]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/video_maaf.avi)
+[[Paper]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/MAAF_egsr2017.pdf) [[Slides]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/maaf-egsr2017.pptx) [[Video]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/video_maaf.avi)
 
 <td height='120' align="left" valign="middle">
     <img src='/imgs/multires-sa16.png' width="120" height="120" hspace="8" vspace="4" border="1" align="left" alt="icon">
@@ -44,7 +44,7 @@ Computer Graphics Forum (EGSR 2017), June 2017
 [Shuang Zhao](https://shuangz.com/)\*, Lifan Wu\*, [Fredo Durand](http://people.csail.mit.edu/fredo/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)   
 (\* Joint first authors)   
 ACM Transactions on Graphics (SIGGRAPH Asia 2016), Nov. 2016   
-[[Project]](http://shuangz.com/projects/multires-sa16/) [[Paper]](http://cseweb.ucsd.edu/~liw086/multires-sa16/multires-sa16.pdf) [[Video]](https://vimeo.com/182425415) [[Code & Data]](http://cseweb.ucsd.edu/~liw086/multires-sa16/multires_dataset_code.zip)
+[[Project]](http://shuangz.com/projects/multires-sa16/) [[Paper]](http://cseweb.ucsd.edu/~liw086/multires-sa16/multires-sa16.pdf) [[Slides]](http://cseweb.ucsd.edu/~liw086/multires-sa16/multires-sa2016.pptx) [[Video]](https://vimeo.com/182425415) [[Code & Data]](http://cseweb.ucsd.edu/~liw086/multires-sa16/multires_dataset_code.zip)
 <br />
 
 <div id="miscellaneous">
@@ -64,6 +64,8 @@ Working with [Fujun Luan](http://cg.cs.tsinghua.edu.cn/people/~fujun/), [Weilun 
 **PointContour: Interactive Surface Reconstruction on Point Cloud**    
 Working with Yixin Zhuang, [Ming Zou](http://www.cse.wustl.edu/~zoum/), Zhao Fu, [Nathan Carr](http://www.adobe.com/technology/people/san-jose/nathan-carr.html), [Tao Ju](http://www.cse.wustl.edu/~taoju/)    
 (A semi-automatic tool to generate surfaces via input point cloud and sketches drawn by users)
+
+<br />
 
 <td height='120' align="left" valign="middle">
     <img src='/imgs/AniFrypan_m.jpg' width="120" height="120" hspace="8" vspace="0" border="1" align="left" alt="icon">
