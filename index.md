@@ -35,7 +35,9 @@ Email: winmad.wlf [at] gmail [dot] com
 **Multiple Axis-Aligned Filters for Rendering of Combined Distribution Effects**   
 Lifan Wu, [Ling-Qi Yan](http://people.eecs.berkeley.edu/~lingqi/), Alexandr Kuznetsov, [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)   
 Computer Graphics Forum (EGSR 2017), June 2017   
-[[Paper]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/MAAF_egsr2017.pdf) [[Slides]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/maaf-egsr2017.pptx) [[Video]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/video_maaf.avi)
+[[Paper]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/MAAF_egsr2017.pdf) [[Slides]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/MAAF-egsr2017.pptx) [[Video]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/video_maaf.avi)
+
+<br />
 
 <td height='120' align="left" valign="middle">
     <img src='/imgs/multires-sa16.png' width="120" height="120" hspace="8" vspace="4" border="1" align="left" alt="icon">
@@ -58,6 +60,8 @@ ACM Transactions on Graphics (SIGGRAPH Asia 2016), Nov. 2016
 Working with [Fujun Luan](http://cg.cs.tsinghua.edu.cn/people/~fujun/), [Weilun Sun](http://sunweilun.github.io/), [Kun Xu](http://cg.cs.tsinghua.edu.cn/people/~kun/)   
 (Inspired by Vertex Connection and Merging. Using intermediate paths and a path merging graph to increase path samples and improve path reusing)
 
+<br />
+
 <td height='120' align="left" valign="middle">
     <img src='/imgs/sur_recon.png' width="120" height="120" hspace="8" vspace="0" border="1" align="left" alt="icon">
 </td>
@@ -74,6 +78,8 @@ Working with Yixin Zhuang, [Ming Zou](http://www.cse.wustl.edu/~zoum/), Zhao Fu,
 [Fujun Luan](http://cg.cs.tsinghua.edu.cn/people/~fujun/), **Lifan Wu**, [Kun Xu](http://cg.cs.tsinghua.edu.cn/people/~kun/)   
 Accepted to Computational Visual Media 2015   
 (An anisotropic filtering kernel for photon density estimation to handle anisotropic BRDFs) 
+
+<br />
 
 <td height='120' align="left" valign="middle">
     <img src='/imgs/test_energy.jpg' width="120" height="120" hspace="8" vspace="0" border="1" align="left" alt="icon">
