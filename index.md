@@ -38,7 +38,6 @@ Email: winmad.wlf [at] gmail [dot] com
 Lifan Wu, [Shuang Zhao](https://shuangz.com/), [Ling-Qi Yan](https://sites.cs.ucsb.edu/~lingqi/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)   
 ACM Transactions on Graphics (SIGGRAPH 2019), July 2019  
 [[Paper]](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/multires.pdf) [[Video]](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/video_appearance_filtering_final.mp4) [Code & Data (coming soon)]
-
 <br />
 
 <td height='120' align="left" valign="middle">
@@ -48,7 +47,6 @@ ACM Transactions on Graphics (SIGGRAPH 2019), July 2019
 Lifan Wu, [Ling-Qi Yan](https://sites.cs.ucsb.edu/~lingqi/), Alexandr Kuznetsov, [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)   
 Computer Graphics Forum (EGSR 2017), June 2017   
 [[Paper]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/MAAF_egsr2017.pdf) [[Slides]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/MAAF-egsr2017.pptx) [[Video]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/video_maaf.avi)
-
 <br />
 
 <td height='120' align="left" valign="middle">
@@ -71,7 +69,6 @@ ACM Transactions on Graphics (SIGGRAPH Asia 2016), Nov. 2016
 **Intermediate Path Tracing and Merging**   
 Working with [Fujun Luan](https://www.cs.cornell.edu/~fujun/), [Weilun Sun](http://sunweilun.github.io/), [Kun Xu](http://cg.cs.tsinghua.edu.cn/people/~kun/)   
 (Inspired by Vertex Connection and Merging. Using intermediate paths and a path merging graph to increase path samples and improve path reusing)
-
 <br />
 
 <td height='120' align="left" valign="middle">
@@ -80,7 +77,6 @@ Working with [Fujun Luan](https://www.cs.cornell.edu/~fujun/), [Weilun Sun](http
 **PointContour: Interactive Surface Reconstruction on Point Cloud**    
 Working with Yixin Zhuang, [Ming Zou](http://www.cse.wustl.edu/~zoum/), Zhao Fu, [Nathan Carr](http://www.adobe.com/technology/people/san-jose/nathan-carr.html), [Tao Ju](http://www.cse.wustl.edu/~taoju/)    
 (A semi-automatic tool to generate surfaces via input point cloud and sketches drawn by users)
-
 <br />
 
 <td height='120' align="left" valign="middle">
@@ -90,23 +86,4 @@ Working with Yixin Zhuang, [Ming Zou](http://www.cse.wustl.edu/~zoum/), Zhao Fu,
 [Fujun Luan](http://cg.cs.tsinghua.edu.cn/people/~fujun/), **Lifan Wu**, [Kun Xu](http://cg.cs.tsinghua.edu.cn/people/~kun/)   
 Accepted to Computational Visual Media 2015   
 (An anisotropic filtering kernel for photon density estimation to handle anisotropic BRDFs) 
-
-<br />
-
-<td height='120' align="left" valign="middle">
-    <img src='/imgs/test_energy.jpg' width="120" height="120" hspace="8" vspace="0" border="1" align="left" alt="icon">
-</td>
-**Seam Carving: Content-Aware Image Resizing**    
-Course project of *General Computer Science*    
-(Reproduced an adaptive image resizing algorithm, based on SIGGRAPH 2007 paper [Seam Carving](http://www.eng.tau.ac.il/~avidan/papers/imretFinal.pdf))
-
-<br />
-
-<td height='120' align="left" valign="middle">
-    <img src='/imgs/mesh_simp.jpg' width="120" height="120" hspace="8" vspace="0" border="1" align="left" alt="icon">
-</td>
-**Mesh Simplification**    
-Course project of *Fundamentals of Computer Graphics*    
-(Implemented a mesh simplification algorithm using quadratic error metric)
-
 <br />
