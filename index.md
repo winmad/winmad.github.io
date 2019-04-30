@@ -8,18 +8,20 @@ title: Home &larr; Lifan Wu
 
 <img class='inset right' src='/imgs/wlf_resized-compressed.jpg' title='Lifan Wu' alt='Lifan Wu' width='230px' />
 
-I am Lifan Wu, a third year PhD student at University of California, San Diego. My advisor is [Prof. Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/). I graduated from Tsinghua University in July 2015.
+I am Lifan Wu, a fourth year PhD student at University of California, San Diego. My advisor is [Prof. Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/). I graduated from Tsinghua University in July 2015.
 
 My research interest is physically based rendering, including sparse sampling and reconstruction of visual signals, realistic appearance modeling, and light transport. At Tsinghua, I worked at [Graphics and Geometric Computing Group](http://cg.cs.tsinghua.edu.cn/), advised by [Prof. Kun Xu](http://cg.cs.tsinghua.edu.cn/people/~kun/). In summer 2014, I worked as a research intern at Washington University in St. Louis, advised by [Prof. Tao Ju](http://www.cs.wustl.edu/~taoju/).
 
 Email: winmad.wlf [at] gmail [dot] com
 
-[Curriculum Vitae](files/cv.pdf)
+[Curriculum Vitae](files/cv.pdf) (Last updated on Apr 29, 2019)
 
 <div id="news">
 </div>
 
 ## News
+* 04/2019: Our paper [Accurate Appearance Preserving Prefiltering for Rendering Displacement-Mapped Surfaces](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/multires.pdf) has been accepted to ACM SIGGRAPH 2019.
+* 12/2018: I received [NVIDIA Graduate Fellowship 2019](https://www.nvidia.com/en-us/research/graduate-fellowships/).
 * 05/2017: Our paper [Multiple Axis-Aligned Filters for Rendering of Combined Distribution Effects](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/MAAF_egsr2017.pdf) has been accepted to EGSR 2017.
 * 07/2016: Our paper [Downsampling Scattering Parameters for Rendering Anisotropic Media](http://shuangz.com/projects/multires-sa16/) has been accepted to ACM SIGGRAPH Asia 2016.
 * 09/2015: I start my PhD study at University of California, San Diego. I am fortunate to work with Prof. Ravi Ramamoorthi.
@@ -30,10 +32,20 @@ Email: winmad.wlf [at] gmail [dot] com
 
 ## Publications
 <td height='120' align="left" valign="middle">
+    <img src='/imgs/apf-s19.png' width="120" height="120" hspace="8" vspace="4" border="1" align="left" alt="icon">
+</td>
+**Accurate Appearance Preserving Prefiltering for Rendering Displacement-Mapped Surfaces**   
+Lifan Wu, [Shuang Zhao](https://shuangz.com/), [Ling-Qi Yan](https://sites.cs.ucsb.edu/~lingqi/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)   
+ACM Transactions on Graphics (SIGGRAPH 2019), July 2019  
+[[Paper]](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/multires.pdf) [[Video]](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/video_appearance_filtering_final.mp4) [Code & Data (coming soon)]
+
+<br />
+
+<td height='120' align="left" valign="middle">
     <img src='/imgs/maaf-egsr2017.png' width="120" height="120" hspace="8" vspace="4" border="1" align="left" alt="icon">
 </td>
 **Multiple Axis-Aligned Filters for Rendering of Combined Distribution Effects**   
-Lifan Wu, [Ling-Qi Yan](http://people.eecs.berkeley.edu/~lingqi/), Alexandr Kuznetsov, [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)   
+Lifan Wu, [Ling-Qi Yan](https://sites.cs.ucsb.edu/~lingqi/), Alexandr Kuznetsov, [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)   
 Computer Graphics Forum (EGSR 2017), June 2017   
 [[Paper]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/MAAF_egsr2017.pdf) [[Slides]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/MAAF-egsr2017.pptx) [[Video]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/video_maaf.avi)
 
@@ -57,7 +69,7 @@ ACM Transactions on Graphics (SIGGRAPH Asia 2016), Nov. 2016
     <img src='/imgs/vol_scene-compressed.jpg' width="120" height="120" hspace="8" vspace="0" border="1" align="left" alt="icon">
 </td>
 **Intermediate Path Tracing and Merging**   
-Working with [Fujun Luan](http://cg.cs.tsinghua.edu.cn/people/~fujun/), [Weilun Sun](http://sunweilun.github.io/), [Kun Xu](http://cg.cs.tsinghua.edu.cn/people/~kun/)   
+Working with [Fujun Luan](https://www.cs.cornell.edu/~fujun/), [Weilun Sun](http://sunweilun.github.io/), [Kun Xu](http://cg.cs.tsinghua.edu.cn/people/~kun/)   
 (Inspired by Vertex Connection and Merging. Using intermediate paths and a path merging graph to increase path samples and improve path reusing)
 
 <br />
