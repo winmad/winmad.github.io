@@ -8,7 +8,7 @@ title: Home &larr; Lifan Wu
 
 <img class='inset right' src='/imgs/wlf_resized-compressed.jpg' title='Lifan Wu' alt='Lifan Wu' width='230px' />
 
-I am Lifan Wu, a fourth year PhD student at University of California, San Diego. My advisor is [Prof. Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/). I graduated from Tsinghua University in July 2015.
+I am Lifan Wu, a fifth-year PhD candidate at University of California, San Diego. My advisor is [Prof. Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/). I graduated from Tsinghua University in July 2015.
 
 My research interest is physically based rendering, including sparse sampling and reconstruction of visual signals, realistic appearance modeling, and light transport. At Tsinghua, I worked at [Graphics and Geometric Computing Group](http://cg.cs.tsinghua.edu.cn/), advised by [Prof. Kun Xu](http://cg.cs.tsinghua.edu.cn/people/~kun/). In summer 2014, I worked as a research intern at Washington University in St. Louis, advised by [Prof. Tao Ju](http://www.cs.wustl.edu/~taoju/).
 
