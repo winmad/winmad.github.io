@@ -36,7 +36,8 @@ Email: winmad.wlf [at] gmail [dot] com
     <img src='/imgs/diffrender-sa19.png' width="120" height="120" hspace="8" vspace="4" border="1" align="left" alt="icon">
 </td>
 **A Differential Theory of Radiative Transfer**   
-[Cheng Zhang](https://www.ics.uci.edu/~chengz20/), Lifan Wu, [Changxi Zheng](http://www.cs.columbia.edu/~cxz/), [Ioannis Gkioulekas](https://www.cs.cmu.edu/~igkioule/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/), [Shuang Zhao](https://shuangz.com/)   
+[Cheng Zhang](https://www.ics.uci.edu/~chengz20/), Lifan Wu, [Changxi Zheng](http://www.cs.columbia.edu/~cxz/), [Ioannis Gkioulekas](https://www.cs.cmu.edu/~igkioule/),  
+[Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/), [Shuang Zhao](https://shuangz.com/)   
 ACM Transactions on Graphics (SIGGRAPH Asia 2019), Nov. 2019  
 [[Project]](https://shuangz.com/projects/diffrender-sa19/)
 [[Paper]](https://shuangz.com/projects/diffrender-sa19/diff_rendering.pdf)
