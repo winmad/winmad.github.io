@@ -14,12 +14,13 @@ My research interest is physically based rendering, including sparse sampling an
 
 Email: winmad.wlf [at] gmail [dot] com
 
-[Curriculum Vitae](files/cv.pdf) (Last updated on Apr 29, 2019)
+[Curriculum Vitae](files/cv.pdf) (Last updated on Sep 18, 2019)
 
 <div id="news">
 </div>
 
 ## News
+* 08/2019: Our paper [A Differential Theory of Radiative Transfer](https://shuangz.com/projects/diffrender-sa19/) has been accepted to ACM SIGGRAPH Asia 2019.
 * 04/2019: Our paper [Accurate Appearance Preserving Prefiltering for Rendering Displacement-Mapped Surfaces](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/multires.pdf) has been accepted to ACM SIGGRAPH 2019.
 * 12/2018: I received [NVIDIA Graduate Fellowship 2019](https://www.nvidia.com/en-us/research/graduate-fellowships/).
 * 05/2017: Our paper [Multiple Axis-Aligned Filters for Rendering of Combined Distribution Effects](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/MAAF_egsr2017.pdf) has been accepted to EGSR 2017.
@@ -31,6 +32,16 @@ Email: winmad.wlf [at] gmail [dot] com
 </div>
 
 ## Publications
+<td height='120' align="left" valign="middle">
+    <img src='/imgs/diffrender-sa19.png' width="120" height="120" hspace="8" vspace="4" border="1" align="left" alt="icon">
+</td>
+**A Differential Theory of Radiative Transfer**   
+[Cheng Zhang](https://www.ics.uci.edu/~chengz20/), Lifan Wu, [Changxi Zheng](http://www.cs.columbia.edu/~cxz/), [Ioannis Gkioulekas](https://www.cs.cmu.edu/~igkioule/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/), [Shuang Zhao](https://shuangz.com/)
+ACM Transactions on Graphics (SIGGRAPH Asia 2019), Nov. 2019  
+[[Project]](https://shuangz.com/projects/diffrender-sa19/)
+[[Paper]](https://shuangz.com/projects/diffrender-sa19/diff_rendering.pdf)
+<br />
+
 <td height='120' align="left" valign="middle">
     <img src='/imgs/apf-s19.png' width="120" height="120" hspace="8" vspace="4" border="1" align="left" alt="icon">
 </td>
