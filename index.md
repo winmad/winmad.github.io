@@ -49,7 +49,9 @@ ACM Transactions on Graphics (SIGGRAPH Asia 2019), Nov. 2019
 **Accurate Appearance Preserving Prefiltering for Rendering Displacement-Mapped Surfaces**   
 Lifan Wu, [Shuang Zhao](https://shuangz.com/), [Ling-Qi Yan](https://sites.cs.ucsb.edu/~lingqi/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)   
 ACM Transactions on Graphics (SIGGRAPH 2019), July 2019  
-[[Paper]](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/multires.pdf) [[Video]](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/video_appearance_filtering_final.mp4) [Code & Data (coming soon)]
+[[Paper]](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/multires.pdf) [[Video]](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/video_appearance_filtering_final.mp4) 
+[[Slides]](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/multires_s2019.pptx)
+[[Code & Data]](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/prefilter_disp_map.zip) 
 <br />
 
 <td height='120' align="left" valign="middle">
