@@ -33,7 +33,7 @@ Email: winmad.wlf [at] gmail [dot] com
     <img src='/imgs/diffsh-sg20.jpg' width="120" height="120" hspace="8" vspace="4" border="1" align="left" alt="icon">
 </td>
 **Analytic Spherical Harmonic Gradients for Real-Time Rendering With Many Polygonal Area Lights**   
-Lifan Wu, [Guangyan Cai](guangyancai.github.io), [Shuang Zhao](https://shuangz.com/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)
+Lifan Wu, [Guangyan Cai](guangyancai.github.io), [Shuang Zhao](https://shuangz.com/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)   
 ACM Transactions on Graphics (SIGGRAPH 2020), July 2020  
 [[Paper]](http://cseweb.ucsd.edu/~liw086/diff-sh-s20/diff-sh.pdf)
 [[Video]](http://cseweb.ucsd.edu/~liw086/diff-sh-s20/diff-sh-s20.mp4)
