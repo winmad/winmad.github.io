@@ -20,18 +20,26 @@ Email: winmad.wlf [at] gmail [dot] com
 </div>
 
 ## News
+* 04/2020: Our paper [Analytic Spherical Harmonic Gradients for Real-Time Rendering With Many Polygonal Area Lights](http://cseweb.ucsd.edu/~liw086/diff-sh-s20/diff-sh.pdf) has been accepted to ACM SIGGRAPH 2020.
 * 08/2019: Our paper [A Differential Theory of Radiative Transfer](https://shuangz.com/projects/diffrender-sa19/) has been accepted to ACM SIGGRAPH Asia 2019.
 * 04/2019: Our paper [Accurate Appearance Preserving Prefiltering for Rendering Displacement-Mapped Surfaces](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/multires.pdf) has been accepted to ACM SIGGRAPH 2019.
 * 12/2018: I received [NVIDIA Graduate Fellowship 2019](https://www.nvidia.com/en-us/research/graduate-fellowships/).
-* 05/2017: Our paper [Multiple Axis-Aligned Filters for Rendering of Combined Distribution Effects](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/MAAF_egsr2017.pdf) has been accepted to EGSR 2017.
-* 07/2016: Our paper [Downsampling Scattering Parameters for Rendering Anisotropic Media](http://shuangz.com/projects/multires-sa16/) has been accepted to ACM SIGGRAPH Asia 2016.
-* 09/2015: I start my PhD study at University of California, San Diego. I am fortunate to work with Prof. Ravi Ramamoorthi.
-* 07/2015: I graduated from Tsinghua University.
 
 <div id="research">
 </div>
 
 ## Publications
+<td height='120' align="left" valign="middle">
+    <img src='/imgs/diffsh-sg20.jpg' width="120" height="120" hspace="8" vspace="4" border="1" align="left" alt="icon">
+</td>
+**Analytic Spherical Harmonic Gradients for Real-Time Rendering With Many Polygonal Area Lights**   
+Lifan Wu, [Guangyan Cai](guangyancai.github.io), [Shuang Zhao](https://shuangz.com/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)
+ACM Transactions on Graphics (SIGGRAPH 2020), July 2020  
+[[Paper]](http://cseweb.ucsd.edu/~liw086/diff-sh-s20/diff-sh.pdf)
+[[Video]](http://cseweb.ucsd.edu/~liw086/diff-sh-s20/diff-sh-s20.mp4)
+[[Code & Data]](http://cseweb.ucsd.edu/~liw086/diff-sh-s20/Falcor-diff-sh.zip)
+<br />
+
 <td height='120' align="left" valign="middle">
     <img src='/imgs/diffrender-sa19.png' width="120" height="120" hspace="8" vspace="4" border="1" align="left" alt="icon">
 </td>
