@@ -31,7 +31,7 @@ Email: winmad.wlf [at] gmail [dot] com
 
 ## Publications
 <td height='120' align="left" valign="middle">
-    <img src='/imgs/UCSD_seal.png' width="120" height="120" hspace="8" vspace="4" border="0" align="left" alt="icon">
+    <img src='/imgs/UCSD_Seal.png' width="120" height="120" hspace="8" vspace="4" border="0" align="left" alt="icon">
 </td>
 **Appearance Preserving Prefiltering for Rendering Complex Scenes**   
 Lifan Wu   
