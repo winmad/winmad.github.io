@@ -37,7 +37,7 @@ Email: winmad.wlf [at] gmail [dot] com
 Lifan Wu   
 Ph.D. Dissertation, UC San Diego, July 2020    
 [[Dissertation]](http://cseweb.ucsd.edu/~liw086/dissertation/dissertation.pdf)
-[[Fast forward video]](https://youtu.be/Puzj8fCrxpo)
+[[Fast forward video]](https://youtu.be/Puzj8fCrxpo)     
 <br />
 
 <td height='120' align="left" valign="middle">
@@ -51,7 +51,7 @@ ACM Transactions on Graphics (SIGGRAPH 2020), July 2020
 [[Video]](http://cseweb.ucsd.edu/~liw086/diff-sh-s20/diff-sh-s20.mp4)
 [[Slides]](http://cseweb.ucsd.edu/~liw086/diff-sh-s20/diff_sh_s2020.pptx)
 [[Poster]](http://cseweb.ucsd.edu/~liw086/diff-sh-s20/poster.pdf)
-[[Code & Data]](http://cseweb.ucsd.edu/~liw086/diff-sh-s20/Falcor-diff-sh.zip)
+[[Code & Data]](http://cseweb.ucsd.edu/~liw086/diff-sh-s20/Falcor-diff-sh.zip)    
 <br />
 
 <td height='120' align="left" valign="middle">
@@ -62,7 +62,7 @@ ACM Transactions on Graphics (SIGGRAPH 2020), July 2020
 [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/), [Shuang Zhao](https://shuangz.com/)   
 ACM Transactions on Graphics (SIGGRAPH Asia 2019), Nov 2019  
 [[Project]](https://shuangz.com/projects/diffrender-sa19/)
-[[Paper]](https://shuangz.com/projects/diffrender-sa19/diff_rendering.pdf)
+[[Paper]](https://shuangz.com/projects/diffrender-sa19/diff_rendering.pdf)    
 <br />
 
 <td height='120' align="left" valign="middle">
@@ -73,7 +73,7 @@ Lifan Wu, [Shuang Zhao](https://shuangz.com/), [Ling-Qi Yan](https://sites.cs.uc
 ACM Transactions on Graphics (SIGGRAPH 2019), July 2019  
 [[Paper]](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/multires.pdf) [[Video]](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/video_appearance_filtering_final.mp4) 
 [[Slides]](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/multires_s2019.pptx)
-[[Code & Data]](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/prefilter_disp_map.zip) 
+[[Code & Data]](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/prefilter_disp_map.zip)    
 <br />
 
 <td height='120' align="left" valign="middle">
@@ -82,7 +82,7 @@ ACM Transactions on Graphics (SIGGRAPH 2019), July 2019
 **Multiple Axis-Aligned Filters for Rendering of Combined Distribution Effects**   
 Lifan Wu, [Ling-Qi Yan](https://sites.cs.ucsb.edu/~lingqi/), Alexandr Kuznetsov, [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)   
 Computer Graphics Forum (EGSR 2017), June 2017   
-[[Paper]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/MAAF_egsr2017.pdf) [[Slides]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/MAAF-egsr2017.pptx) [[Video]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/video_maaf.avi)
+[[Paper]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/MAAF_egsr2017.pdf) [[Slides]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/MAAF-egsr2017.pptx) [[Video]](http://cseweb.ucsd.edu/~liw086/maaf-egsr2017/video_maaf.avi)    
 <br />
 
 <td height='120' align="left" valign="middle">
@@ -92,7 +92,7 @@ Computer Graphics Forum (EGSR 2017), June 2017
 [Shuang Zhao](https://shuangz.com/)\*, Lifan Wu\*, [Fredo Durand](http://people.csail.mit.edu/fredo/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)   
 (\* Joint first authors)   
 ACM Transactions on Graphics (SIGGRAPH Asia 2016), Nov 2016   
-[[Project]](http://shuangz.com/projects/multires-sa16/) [[Paper]](http://cseweb.ucsd.edu/~liw086/multires-sa16/multires-sa16.pdf) [[Slides]](http://cseweb.ucsd.edu/~liw086/multires-sa16/multires-sa2016.pptx) [[Video]](https://vimeo.com/182425415) [[Code & Data]](http://cseweb.ucsd.edu/~liw086/multires-sa16/multires_dataset_code.zip)
+[[Project]](http://shuangz.com/projects/multires-sa16/) [[Paper]](http://cseweb.ucsd.edu/~liw086/multires-sa16/multires-sa16.pdf) [[Slides]](http://cseweb.ucsd.edu/~liw086/multires-sa16/multires-sa2016.pptx) [[Video]](https://vimeo.com/182425415) [[Code & Data]](http://cseweb.ucsd.edu/~liw086/multires-sa16/multires_dataset_code.zip)    
 <br />
 
 <div id="miscellaneous">
