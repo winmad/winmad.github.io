@@ -99,5 +99,5 @@ ACM Transactions on Graphics (SIGGRAPH Asia 2016), Nov 2016
 </div>
 
 ## Miscellaneous
-* In my spare time, I enjoy playing various video games.
+* In my spare time, I enjoy playing various [video games](/phd-games).
 * I am a great fan of classical music.
