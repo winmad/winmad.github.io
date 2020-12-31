@@ -12,7 +12,7 @@ lang: zh
     </a>
 </div> 
 
-# 第二年(下): 2017年4月 -- 2017年9月
+# 第二年(下): 2017年2月 -- 2017年9月
 
 <a href="../imgs/games/year2/witcher_3.jpg">
     <img src="../imgs/games/year2/witcher_3.jpg" width="640"/>
