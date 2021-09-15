@@ -14,22 +14,42 @@ My research focus is on physically based rendering, aiming at efficient modeling
 
 Email: winmad.wlf [at] gmail [dot] com
 
-[Curriculum Vitae](files/cv_2020_09_20.pdf) (Last updated on Sep 20, 2020)
+[Curriculum Vitae](files/cv_2021_09_15.pdf) (Last updated on Sep 15, 2021)
 
 <div id="news">
 </div>
 
 ## News
-* 08/2020: I joined [NVIDIA Research](https://www.nvidia.com/en-us/research/) after completing my Ph.D. at UC San Diego.
-* 04/2020: Our paper [Analytic Spherical Harmonic Gradients for Real-Time Rendering With Many Polygonal Area Lights](http://cseweb.ucsd.edu/~liw086/diff-sh-s20/diff-sh.pdf) has been accepted to ACM SIGGRAPH 2020.
-* 08/2019: Our paper [A Differential Theory of Radiative Transfer](https://shuangz.com/projects/diffrender-sa19/) has been accepted to ACM SIGGRAPH Asia 2019.
-* 04/2019: Our paper [Accurate Appearance Preserving Prefiltering for Rendering Displacement-Mapped Surfaces](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/multires.pdf) has been accepted to ACM SIGGRAPH 2019.
-* 12/2018: I received [NVIDIA Graduate Fellowship 2019](https://www.nvidia.com/en-us/research/graduate-fellowships/).
+* Sep 2021: Our paper [Differentiable Time-Gated Rendering](http://cseweb.ucsd.edu/~liw086/DTGR-sa21/DTGR_final.pdf) has been accepted to SIGGRAPH Asia 2021. 
+* Feb 2021: Our paper [Vectorization for Fast, Analytic, and Differentiable Visibility](http://cseweb.ucsd.edu/~liw086/vectorizer-tog21/paper_vectorization.pdf) has been accepted to TOG and will be presented at SIGGRAPH 2021.
+* Aug 2020: I joined [NVIDIA Research](https://www.nvidia.com/en-us/research/) after completing my Ph.D. at UC San Diego.
+* Apr 2020: Our paper [Analytic Spherical Harmonic Gradients for Real-Time Rendering With Many Polygonal Area Lights](http://cseweb.ucsd.edu/~liw086/diff-sh-s20/diff-sh.pdf) has been accepted to SIGGRAPH 2020.
 
 <div id="research">
 </div>
 
 ## Publications
+<td height='120' align="left" valign="middle">
+    <img src='/imgs/DTGR-sa21.jpg' width="120" height="120" hspace="8" vspace="4" border="0" align="left" alt="icon">
+</td>
+**Differentiable Time-Gated Rendering**   
+Lifan Wu\*, [Guangyan Cai](https://guangyancai.github.io/)\*, [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/), [Shuang Zhao](https://shuangz.com/) (\* equal contribution)    
+ACM Transactions on Graphics (SIGGRAPH Asia 2021), Dec 2021  
+[[Project]](https://shuangz.com/projects/dtgr-sa21/) 
+[[Paper]](http://cseweb.ucsd.edu/~liw086/DTGR-sa21/DTGR_final.pdf)
+[[Supplement]](http://cseweb.ucsd.edu/~liw086/DTGR-sa21/supplement.zip)   
+<br />
+
+<td height='120' align="left" valign="middle">
+    <img src='/imgs/vectorizer-tog21.png' width="120" height="120" hspace="8" vspace="4" border="0" align="left" alt="icon">
+</td>
+**Vectorization for Fast, Analytic, and Differentiable Visibility**   
+[Yang Zhou](https://www.mangosister.me/), Lifan Wu, [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/), [Ling-Qi Yan](https://sites.cs.ucsb.edu/~lingqi/)   
+ACM Transactions on Graphics (presented at SIGGRAPH 2021), June 2021  
+[[Paper]](http://cseweb.ucsd.edu/~liw086/vectorizer-tog21/paper_vectorization.pdf)
+[[Video]](http://cseweb.ucsd.edu/~liw086/vectorizer-tog21/video_vectorization.mp4)
+<br />
+
 <td height='120' align="left" valign="middle">
     <img src='/imgs/UCSD_Seal.png' width="120" height="120" hspace="8" vspace="4" border="0" align="left" alt="icon">
 </td>
@@ -44,7 +64,7 @@ Ph.D. Dissertation, UC San Diego, July 2020
     <img src='/imgs/diffsh-sg20.jpg' width="120" height="120" hspace="8" vspace="4" border="0" align="left" alt="icon">
 </td>
 **Analytic Spherical Harmonic Gradients for Real-Time Rendering With Many Polygonal Area Lights**   
-Lifan Wu, [Guangyan Cai](guangyancai.github.io), [Shuang Zhao](https://shuangz.com/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)   
+Lifan Wu, [Guangyan Cai](https://guangyancai.github.io/), [Shuang Zhao](https://shuangz.com/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)   
 ACM Transactions on Graphics (SIGGRAPH 2020), July 2020  
 [[Paper]](http://cseweb.ucsd.edu/~liw086/diff-sh-s20/diff-sh.pdf)
 [[Talk recording]](https://youtu.be/EiuyDdloSfw)
@@ -90,7 +110,7 @@ Computer Graphics Forum (EGSR 2017), June 2017
 </td>
 **Downsampling Scattering Parameters for Rendering Anisotropic Media**   
 [Shuang Zhao](https://shuangz.com/)\*, Lifan Wu\*, [Fredo Durand](http://people.csail.mit.edu/fredo/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)   
-(\* Joint first authors)   
+(\* joint first authors)   
 ACM Transactions on Graphics (SIGGRAPH Asia 2016), Nov 2016   
 [[Project]](http://shuangz.com/projects/multires-sa16/) [[Paper]](http://cseweb.ucsd.edu/~liw086/multires-sa16/multires-sa16.pdf) [[Slides]](http://cseweb.ucsd.edu/~liw086/multires-sa16/multires-sa2016.pptx) [[Video]](https://vimeo.com/182425415) [[Code & Data]](http://cseweb.ucsd.edu/~liw086/multires-sa16/multires_dataset_code.zip)    
 <br />
